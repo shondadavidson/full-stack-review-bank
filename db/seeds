@@ -1,0 +1,8 @@
+create table users28 (
+id serial primary key,
+username varchar(100),
+password varchar(100),
+balance INTEGER,
+user_img text
+)
+
